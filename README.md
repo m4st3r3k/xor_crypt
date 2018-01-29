@@ -7,6 +7,6 @@ Usage: ./xor_string [-e] for encrypt  or [-d]  for decrypt + [text] + [key]\n\n 
 Use -h for help
 
 -e encrypt message
--d decrypt message\n");
+-d decrypt message
 -t use for encrypt or decrypt long text with spaces. This option change to text mode. Example: ./xor_string -t
 
