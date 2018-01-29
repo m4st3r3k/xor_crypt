@@ -4,6 +4,7 @@ How to use XOR in C for encrypt words
 
 
 Usage: ./xor_string [-e] for encrypt  or [-d]  for decrypt + [text] + [key]
+
 Example: ./xor_string -e masterek ABCD
 Use -h for help
 
